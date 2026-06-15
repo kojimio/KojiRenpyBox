@@ -39,8 +39,6 @@ Bilibili 账号: https://space.bilibili.com/1146352855
 
 ## GLSLShader - 借助着色器实现的相关效果
 
-[Glitch: 简单的故障效果, 可用于转场](GLSL/glitch)
-
 [Perspective: 单点透视小姑组件](GLSL/perspective)
 
 [TrailingGlitch: 带拖尾的故障效果](GLSL/trailing_glitch)
@@ -54,6 +52,12 @@ Bilibili 账号: https://space.bilibili.com/1146352855
 [RectColor: 颜色渐变矩形 (无 Readme)](GLSL/rect_color)
 
 [RectMap: 双色网格 (无 Readme)](GLSL/rect_map)
+
+## Transform - 转场效果
+
+[平滑的坐标变换效果](Transform/smooth_offset)
+
+[Glitch: 简单的故障效果, 可用于转场](Transform/glitch)
 
 ## Markdown - 一些文章
 
